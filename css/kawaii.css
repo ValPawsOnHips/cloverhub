@@ -2,10 +2,28 @@ body {
     font-family: arial;
     background-color: #aa336a;
     color: #fff4f4;
+    text-align: center;
 }
 
 h1 {
     color: #00d2ff;
+}
+
+h2 {
+    color: #89cff0;
+}
+
+a {
+    color: #fff4f4;
+}
+
+a:hover {
+    color: #000b0b;
+}
+
+alert {
+    color: #ff2d00;
+    text-decoration: underline;
 }
 
 mono {
