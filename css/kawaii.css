@@ -6,6 +6,11 @@ body {
     text-align: center;
 }
 
+nc {
+    font-family: arial;
+    color: #fff4f4;
+}
+
 h1 {
     color: #00d2ff;
 }
