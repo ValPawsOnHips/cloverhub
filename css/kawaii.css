@@ -1,6 +1,7 @@
 body {
     font-family: arial;
     background-image: url('https://sirv.kawaiistarlight.online/website/images/background.png');
+    background-size: cover;
     color: #fff4f4;
     text-align: center;
 }
