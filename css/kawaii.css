@@ -4,6 +4,8 @@ body {
     background-size: cover;
     color: #fff4f4;
     text-align: center;
+    margin: 0;
+    padding: 0;
 }
 
 nc {
@@ -35,4 +37,17 @@ alert {
 mono {
     font-family: monospace;
     color: #89cff0;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #55cc95;
+    color: #000000;
+}
+
+footer a {
+    color: #000000;
 }
